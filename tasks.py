@@ -29,9 +29,9 @@ def step(arg):
 
 # Your code here:
 # -----------------------------------------------
-def ReLu(array, cutoff = 0):
-  array[array < cutoff] = cutoff
-  return array
+def ReLu(arr, cutoff=0):
+    return np.maximum(arr, cutoff)
+
 # -----------------------------------------------
 
 
