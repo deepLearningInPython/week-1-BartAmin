@@ -40,7 +40,7 @@ def ReLu(array, cutoff = 0):
 #Write a function that takes in a two-dimensional numpy array of size (n, p) and a one-dimensional numpy array of size p.
 #The function should start by multiplying the two numpy arrays (matrix multiplication).
 #Next, apply the ReLu function from above to the resulting matrix and return the result.
-#Name the function neural_net_layer
+#Name the function neural_net_layer?
 
 # Your code here:
 # -----------------------------------------------
